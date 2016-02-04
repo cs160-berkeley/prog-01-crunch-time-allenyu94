@@ -4,7 +4,7 @@ Briefly describe your app here.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Chung-Hao Yu ([allen.yu@berkeley.edu](mailto:allen.yu@berkeley.edu))
 
 ## Demo Video
 
@@ -12,8 +12,17 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/crunch_time.png" height="400" alt="Screenshot"/>
 
+<img src="screenshots/crunch_time-exercise_list.png" height="400" alt="Screenshot"/>
+
+<img src="screenshots/crunch_time-conversion_details.png" height="400" alt="Screenshot"/>
+
+<img src="screenshots/crunch_time-text_prompt.png" height="400" alt="Screenshot"/>
+
+<img src="screenshots/crunch_time-convert.png" height="400" alt="Screenshot"/>
+
+<img src="screenshots/crunch_time-equivalence.png" height="400" alt="Screenshot"/>
 ## Acknowledgments
 
 * Hat tip to anyone who's code was used
