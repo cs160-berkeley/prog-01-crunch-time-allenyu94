@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Exercises -->
+    <string name="push_up">Push Up</string>
+    <string name="sit_up">Sit Up</string>
+    <string name="squat">Squat</string>
+    <string name="leg_lift">Leg Lift</string>
+    <string name="plank">Plank</string>
+    <string name="jumping_jack">Jumping Jack</string>
+    <string name="pull_up">Pull Up</string>
+    <string name="cycling">Cycling</string>
+    <string name="walking">Walking</string>
+    <string name="jogging">Jogging</string>
+    <string name="swimming">Swimming</string>
+    <string name="stair_climbing">Stair Climbing</string>
+
+    <!-- ExerciseListActivity start Intent String Extras -->
+    <string name="exercise_type">Exercise_Type</string>
+
+    <!-- CalorieDetailsActivity start Intent String Extras -->
+    <string name="equivalent_list_exercises">Equivalent_List_Exercises</string>
+    <string name="equivalent_list_values">Equivalent_List_Values</string>
+
+</resources>
